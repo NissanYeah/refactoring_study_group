@@ -1,0 +1,23 @@
+[
+  {
+    "customer":"Nissen",
+    "performances":[
+      {
+        "playID":"hamlet",  
+        "audience":20
+      },
+      {
+        "playID":"othello",
+        "audience":40
+      },
+      {
+        "playID":"as-like", 
+        "audience":19
+      },
+      {
+        "playID":"as-like",
+        "audience":21
+      }
+    ]
+  }
+]
